@@ -27,7 +27,7 @@ Or do it yourself, in Claude Code:
 
 ```bash
 git clone https://github.com/BEHA-AF/youtube-agent-skills
-youtube-agent-skills
+cp -r youtube-agent-skills/skills/yt-* ~/.claude/skills/
 ```
 
 Or as a plugin:
