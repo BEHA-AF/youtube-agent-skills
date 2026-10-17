@@ -18,7 +18,7 @@ channel, not by how big the channel is.
 Paste this into Claude:
 
 ```
-https://github.com/Jakeschincariol/youtube-agent-skill
+https://github.com/BEHA-AF/youtube-agent-skills
 
 Install this skill, then confirm /yt-script works.
 ```
@@ -26,14 +26,14 @@ Install this skill, then confirm /yt-script works.
 Or do it yourself, in Claude Code:
 
 ```bash
-git clone https://github.com/Jakeschincariol/youtube-agent-skill.git
+git clone https://github.com/BEHA-AF/youtube-agent-skills
 cp -r youtube-agent-skill/skills/yt-* ~/.claude/skills/
 ```
 
 Or as a plugin:
 
 ```
-/plugin marketplace add Jakeschincariol/youtube-agent-skill
+/plugin marketplace add BEHA-AF/youtube-agent-skills
 /plugin install youtube-agent
 ```
 
